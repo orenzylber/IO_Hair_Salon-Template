@@ -1,6 +1,6 @@
 # io Hair Salon Landing Page
 
-![top page io Hair Salon](assets/top_iohairsalon.png)
+![top page io Hair Salon](assets/TopPage_iohairsalon.png)
 
 This is a simple landing page for io Hair Salon, showcasing its services and contact information.
 
@@ -23,10 +23,10 @@ This landing page provides information about io Hair Salon, including details ab
 ![Overview io Hair Salon](assets/about_iohairsalon.png)
 
 - Services offered with pricing details
-![Services io Hair Salon](services_iohairsalon.png)
+![Services io Hair Salon](assets/services_iohairsalon.png)
 
 - Contact information for appointments and inquiries
-![contact us io Hair Salon](contact_iohairsalon.png)
+![Contact us io Hair Salon](assets/ContactUs_iohairsalon.png)
 
 ## Usage
 
