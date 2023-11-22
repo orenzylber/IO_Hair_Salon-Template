@@ -1,6 +1,6 @@
 # io Hair Slon Landing Page
 
-![top page io Hair Slon](top_iohairsalon.png)
+![top page io Hair Slon](assets/top_iohairsalon.png)
 
 This is a simple landing page for io Hair Slon, showcasing its services and contact information.
 
