@@ -1,8 +1,8 @@
-# io Hair Slon Landing Page
+# io Hair Salon Landing Page
 
-![top page io Hair Slon](assets/top_iohairsalon.png)
+![top page io Hair Salon](assets/top_iohairsalon.png)
 
-This is a simple landing page for io Hair Slon, showcasing its services and contact information.
+This is a simple landing page for io Hair Salon, showcasing its services and contact information.
 
 ## Table of Contents
 
@@ -15,13 +15,18 @@ This is a simple landing page for io Hair Slon, showcasing its services and cont
 
 ## Description
 
-This landing page provides information about io Hair Slon, including details about the salon, its services, and contact information. It's a single-page website built using HTML5 and CSS.
+This landing page provides information about io Hair Salon, including details about the salon, its services, and contact information. It's a single-page website built using HTML5 and CSS.
 
 ## Features
 
-- Overview of io Hair Slon and its traditions
+- Overview of io Hair Salon and its traditions
+![Overview io Hair Salon](assets/about_iohairsalon.png)
+
 - Services offered with pricing details
+![Services io Hair Salon](services_iohairsalon.png)
+
 - Contact information for appointments and inquiries
+![contact us io Hair Salon](contact_iohairsalon.png)
 
 ## Usage
 
