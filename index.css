@@ -7,6 +7,12 @@ body {
 
 .custom-header {
   position: relative;
+  text-align: center; /* Center the content within the header */
+}
+
+.custom-header img {
+  display: block;
+  margin: 0 auto; /* Center the image horizontally */
 }
 
 .custom-overlay {
@@ -43,7 +49,9 @@ body {
   color: white;
 }
 
-
+.price {
+  font-size: 1.2em; 
+}
 
 
 
@@ -93,5 +101,3 @@ h1, h2, h3, h4, h5, h6 {
     width: 300px; 
   }
 } */
-
-
